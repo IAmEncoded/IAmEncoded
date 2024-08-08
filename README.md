@@ -5,5 +5,6 @@
 - Go
 - Vue 3
 - Docker
+- Kubernetes
 ## 📫 How to reach me ...
 - 📧 Via Email: Dev.IamEncoded@gmail.com
