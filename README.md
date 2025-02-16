@@ -7,4 +7,4 @@
 - Docker
 - Kubernetes
 ## 📫 How to reach me ...
-- 📧 Via Email: Dev.IamEncoded@gmail.com
+- 📧 Via Email: dev.iamencoded@gmail.com
