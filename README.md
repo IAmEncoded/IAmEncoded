@@ -3,8 +3,7 @@
 - 🌐 Full-Stack Web Development ...
 ## 🌱 I’m currently learning ...
 - Go
-- Vue 3
+- React
 - Docker
-- Kubernetes
 ## 📫 How to reach me ...
 - 📧 Via Email: dev.iamencoded@gmail.com
