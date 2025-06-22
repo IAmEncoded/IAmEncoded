@@ -5,5 +5,6 @@
 - Go
 - React
 - Docker
+- gRPC
 ## 📫 How to reach me ...
 - 📧 Via Email: dev.iamencoded@gmail.com
